@@ -7,7 +7,7 @@ const menus = {
     "2026-09-01": {
         title: "Opor Ayam Tanpa Santan",
 
-        image: "Image/Ayam Opor.jpeg",
+        image: "image/Ayam Opor.jpeg",
 
         foods: [
             "Nasi Putih",
@@ -40,7 +40,7 @@ const menus = {
     "2026-09-02": {
         title: "Telur Kecap",
 
-        image: "Image/Telur Kecap.jpeg",
+        image: "image/Telur Kecap.jpeg",
 
         foods: [
             "Nasi Putih",
@@ -73,7 +73,7 @@ const menus = {
     "2026-09-03": {
         title: "Donat",
 
-        image: "Image/Donat.jpeg",
+        image: "image/Donat.jpeg",
 
         foods: [
             "Roti goreng (homemade)",
